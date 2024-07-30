@@ -1,2 +1,3 @@
 yinxi0306/pro:2.7.8
 hdbjlizhe/autman:latest
+wangbinxingkong/fast
