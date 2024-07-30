@@ -1,2 +1,1 @@
-alpine
-yinxi0306/pro:2.7.4
+yinxi0306/pro
