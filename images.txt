@@ -3,3 +3,4 @@ hdbjlizhe/autman:latest
 wangbinxingkong/fast
 whyour/qinglong:latest
 whyour/qinglong:debian
+alpine:latest
