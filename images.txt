@@ -1,6 +1,6 @@
 yinxi0306/pro:2.7.8
 hdbjlizhe/autman:latest
 wangbinxingkong/fast
-whyour/qinglong:latest
+--platform=liunx/armv7 whyour/qinglong:latest
 whyour/qinglong:debian
 alpine:latest
