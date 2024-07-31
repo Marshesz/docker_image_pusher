@@ -2,3 +2,4 @@ yinxi0306/pro:2.7.8
 hdbjlizhe/autman:latest
 wangbinxingkong/fast
 whyour/qinglong:latest
+whyour/qinglong:2.17.2
