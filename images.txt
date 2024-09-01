@@ -3,3 +3,4 @@ hdbjlizhe/autman:latest
 wangbinxingkong/fast
 --platform=linux/arm/v7 whyour/qinglong
 --platform=linux/arm/v7 whyour/qinglong
+whyour/qinglong
