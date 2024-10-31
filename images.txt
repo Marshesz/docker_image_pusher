@@ -1,7 +1,7 @@
 yinxi0306/pro:2.7.8
-hdbjlizhe/autman:latest
 wangbinxingkong/fast
 --platform=linux/arm/v7 whyour/qinglong
 --platform=linux/arm/v7 whyour/qinglong
 whyour/qinglong
 anmour/bncr
+hdbjlizhe/autman:latest
