@@ -5,3 +5,4 @@ wangbinxingkong/fast
 whyour/qinglong
 anmour/bncr
 hdbjlizhe/autman:latest
+unless-stopped:latest
