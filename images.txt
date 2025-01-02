@@ -3,3 +3,4 @@ wangbinxingkong/fast
 --platform=linux/arm/v7 whyour/qinglong
 whyour/qinglong
 hdbjlizhe/autman:latest
+jeessy/ddns-go:latest
